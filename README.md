@@ -1,2 +1,2 @@
-# javascript_projects
-Javascript Projects
+# javascript_coding_concepts
+Javascript Concepts
